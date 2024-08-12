@@ -6,10 +6,10 @@
 <h6>The Expense class is a simple data structure that holds information about a single expense. It implements the Serializable interface, which allows instances of the class to be serialized (converted into a byte stream) so they can be saved to a file.</h6>
 
 <h4>Fields:</h4>
-<h6><h5>description:</h5>  A String that holds a brief description of the expense.<br>
-<h5>amount: </h5> A double that stores the monetary value of the expense.<br>
-<h5>category: </h5> A String that categorizes the expense (e.g., "Food", "Transport").<br>
-<h5>date: </h5> A Date object representing when the expense was incurred.</h6>
+<h6><h5>description:</h5>  <h6>A String that holds a brief description of the expense.<br></h6>
+<h5>amount: </h5><h6>A double that stores the monetary value of the expense.<br></h6>
+<h5>category: </h5><h6> A String that categorizes the expense (e.g., "Food", "Transport").<br></h6>
+<h5>date: </h5> <h6>A Date object representing when the expense was incurred.</h6>
 
 <h4>Constructor:</h4>
 <h6>Initializes all the fields with the values provided when an Expense object is created.</h6>
